@@ -19,7 +19,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
-            android:text="fdsfsdf"
+            android:text=""
             android:textStyle="normal|bold" />
 
         <TextView
@@ -30,7 +30,7 @@
             android:layout_below="@+id/message_user"
             android:textColor="@android:color/white"
             android:layout_marginTop="5dp"
-            android:text="dsfsdfds"
+            android:text=""
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textSize="18sp" />
 
@@ -41,7 +41,7 @@
 
             android:layout_height="wrap_content"
             android:layout_below="@id/message_text"
-            android:text="sdfsdfsd" />
+            android:text="" />
 
     </RelativeLayout>
 
